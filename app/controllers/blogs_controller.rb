@@ -42,3 +42,4 @@ class BlogsController < ApplicationController
   end
 
 end
+
